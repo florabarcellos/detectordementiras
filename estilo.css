@@ -1,0 +1,28 @@
+body {
+    background: rgb(54,54,54);
+    background: radial-gradient(circle, rgba(54,54,54,1) 0%, rgba(40,143,28,1) 11%, rgba(25,241,0,1) 23%, rgba(47,245,41,1) 37%);
+    font-family: 'Syne Mono', monospace;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.493);
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
